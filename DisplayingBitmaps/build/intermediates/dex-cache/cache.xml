@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\ANDROIDStudioNew1.3\SDK1\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Hungry\Downloads\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-0a31019fc33e177592069d07620d418a2b0245c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hungry\Downloads\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\Hungry\Downloads\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-690a03764ec9dec5060eef0eef4bf1b499a8a4bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hungry\Downloads\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="C:\Users\Hungry\Downloads\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-fca05eb983cafe1d602eac3bc1ff4f768b5c0a1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hungry\Downloads\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Hungry\Downloads\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-a2cdda7b7490a28855d4079ce613839872a777f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hungry\Downloads\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Hungry\Downloads\DisplayingBitmaps\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-6d168b9e2d677208606460917b1c728e23a8ab59.jar" />
+    </item>
+
+</items>
